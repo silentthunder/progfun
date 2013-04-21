@@ -41,5 +41,4 @@ class Rational(x: Int, y: Int) {
     //numer/g+"/"+denom/g
     numer + "/" + denom
   }
-
 }
